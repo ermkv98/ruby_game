@@ -2,7 +2,7 @@
 
 module Utils
   def self.media_path(file)
-    File.join(File.dirname(File.dirname(__FILE__)), "media", file)
+    File.join(File.dirname(File.dirname(__FILE__)), "ruby_game", "media", file)
   end
 
   def self.track_update_interval
