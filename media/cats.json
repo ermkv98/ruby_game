@@ -1,0 +1,20 @@
+{
+  "frames": {
+    "cat1_dead.png": {
+      "frame": {"x":0,"y":128,"w":32,"h":32},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":0,"y":128,"w":32,"h":32},
+      "sourceSize": {"w":32,"h":32}
+    }
+  },
+  "meta": {
+    "app": "http://www.texturepacker.com",
+    "version": "1.0",
+    "image": "cat.png",
+    "format": "RGBA8888",
+    "size": {"w":256,"h":384},
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:2e6b6964f24c7abfaa85a804e2dc1b05$"
+  }
+}
